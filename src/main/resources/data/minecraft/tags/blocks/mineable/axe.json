@@ -2,9 +2,50 @@
   "replace": false,
   "values": [
 
-    // [Let's Do] Bakery:
+
     { "id": "bakery:bread_crate", "required": false },
-    { "id": "bakery:cupcake_display", "required": false },
-    { "id": "bakery:cake_display", "required": false }
+
+    { "id": "moa_decor_art:paletadepintura", "required": false },
+    { "id": "moa_decor_art:lienzo", "required": false },
+    { "id": "moa_decor_art:pelgrito", "required": false },
+    { "id": "moa_decor_art:pgoticoestadounidense", "required": false },
+    { "id": "moa_decor_art:plajovendelperla", "required": false },
+    { "id": "moa_decor_art:planocheestrellada", "required": false },
+    { "id": "moa_decor_art:plamonalisa", "required": false },
+    { "id": "moa_decor_art:pserenatamexicana", "required": false },
+    { "id": "moa_decor_art:caballete", "required": false },
+    { "id": "moa_decor_art:caballetelienzo", "required": false },
+    { "id": "moa_decor_art:caballeteelgrito", "required": false },
+    { "id": "moa_decor_art:caballetegoticoestadounidense", "required": false },
+    { "id": "moa_decor_art:caballetelajovendelaperla", "required": false },
+    { "id": "moa_decor_art:caballetalanocheestrellada", "required": false },
+    { "id": "moa_decor_art:caballeteconlamonalisa", "required": false },
+    { "id": "moa_decor_art:caballeteserenatamexicana", "required": false },
+    { "id": "moa_decor_art:pianodecola", "required": false },
+    { "id": "moa_decor_art:arpa", "required": false },
+    { "id": "moa_decor_art:fonografo", "required": false },
+    { "id": "moa_decor_art:tocadiscos", "required": false },
+    { "id": "moa_decor_art:maquinadediscos", "required": false },
+    { "id": "moa_decor_art:acuarelas", "required": false },
+    { "id": "moa_decor_art:martilloycincel", "required": false },
+    { "id": "moa_decor_art:silladedirector", "required": false },
+    { "id": "moa_decor_art:gafas_3d", "required": false },
+    { "id": "moa_decor_art:maniqui", "required": false },
+    { "id": "moa_decor_art:hiloblanco", "required": false },
+    { "id": "moa_decor_art:hilogrisclaro", "required": false },
+    { "id": "moa_decor_art:hilogris", "required": false },
+    { "id": "moa_decor_art:hilonegro", "required": false },
+    { "id": "moa_decor_art:hilocafe", "required": false },
+    { "id": "moa_decor_art:hilorojo", "required": false },
+    { "id": "moa_decor_art:hilonaranja", "required": false },
+    { "id": "moa_decor_art:hiloamarillo", "required": false },
+    { "id": "moa_decor_art:hiloverdelima", "required": false },
+    { "id": "moa_decor_art:hiloverde", "required": false },
+    { "id": "moa_decor_art:hilocian", "required": false },
+    { "id": "moa_decor_art:hiloazulclaro", "required": false },
+    { "id": "moa_decor_art:hiloazul", "required": false },
+    { "id": "moa_decor_art:hilomorado", "required": false },
+    { "id": "moa_decor_art:hilomagenta", "required": false },
+    { "id": "moa_decor_art:hilorosa", "required": false }
   ]
 }
