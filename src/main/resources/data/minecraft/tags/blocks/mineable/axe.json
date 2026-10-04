@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+
+    // [Let's Do] Bakery:
+    { "id": "bakery:bread_crate", "required": false },
+    { "id": "bakery:cupcake_display", "required": false },
+    { "id": "bakery:cake_display", "required": false }
+  ]
+}
