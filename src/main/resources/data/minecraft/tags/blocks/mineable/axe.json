@@ -46,6 +46,32 @@
     { "id": "moa_decor_art:hiloazul", "required": false },
     { "id": "moa_decor_art:hilomorado", "required": false },
     { "id": "moa_decor_art:hilomagenta", "required": false },
-    { "id": "moa_decor_art:hilorosa", "required": false }
+    { "id": "moa_decor_art:hilorosa", "required": false },
+
+    { "id": "item_scrapper:scrapper_block", "required": false },
+
+    { "id": "animal_pen:animal_pen_oak", "required": false },
+    { "id": "animal_pen:animal_pen_spruce", "required": false },
+    { "id": "animal_pen:animal_pen_birch", "required": false },
+    { "id": "animal_pen:animal_pen_acacia", "required": false },
+    { "id": "animal_pen:animal_pen_jungle", "required": false },
+    { "id": "animal_pen:animal_pen_dark_oak", "required": false },
+    { "id": "animal_pen:animal_pen_crimson", "required": false },
+    { "id": "animal_pen:animal_pen_warped", "required": false },
+    { "id": "animal_pen:animal_pen_mangrove", "required": false },
+    { "id": "animal_pen:animal_pen_bamboo", "required": false },
+    { "id": "animal_pen:animal_pen_cherry", "required": false},
+    { "id": "animal_pen:gold_aviary", "required": false},
+    { "id": "animal_pen:copper_aviary", "required": false},
+    { "id": "animal_pen:exposed:copper_aviary", "required": false},
+    { "id": "animal_pen:weathered_copper_aviary", "required": false},
+    { "id": "animal_pen:oxidized_copper_aviary", "required": false},
+    { "id": "animal_pen:waxed_copper_aviary", "required": false},
+    { "id": "animal_pen:waxed_exposed_copper_aviary", "required": false},
+    { "id": "animal_pen:waxed_weathered_copper_aviary", "required": false},
+    { "id": "animal_pen:waxed_oxidized_copper_aviary", "required": false},
+
+    { "id": "wooden_zipline_hook", "required": false}
+
   ]
 }
