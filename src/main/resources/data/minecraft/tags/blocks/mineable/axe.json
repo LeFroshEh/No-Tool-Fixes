@@ -5,6 +5,8 @@
 
     { "id": "bakery:bread_crate", "required": false },
 
+    { "id": "vinery:basket", "required": false },
+
     { "id": "moa_decor_art:paletadepintura", "required": false },
     { "id": "moa_decor_art:lienzo", "required": false },
     { "id": "moa_decor_art:pelgrito", "required": false },
@@ -71,7 +73,21 @@
     { "id": "animal_pen:waxed_weathered_copper_aviary", "required": false},
     { "id": "animal_pen:waxed_oxidized_copper_aviary", "required": false},
 
-    { "id": "wooden_zipline_hook", "required": false}
+    { "id": "wooden_zipline_hook", "required": false},
 
+    { "id": "farmersdelight:tatami", "required": false},
+
+    { "id": "horror_element_mod:spiked_body", "required": false},
+    { "id": "horror_element_mod:spiked_villager", "required": false},
+    { "id": "horror_element_mod:crucified_body", "required": false},
+    { "id": "horror_element_mod:impaled_skeleton", "required": false},
+    { "id": "horror_element_mod:sign_1", "required": false},
+    { "id": "horror_element_mod:sign_2", "required": false},
+    { "id": "horror_element_mod:woodden_shutter", "required": false},
+    { "id": "horror_element_mod:axe_and_log", "required": false},
+    { "id": "horror_element_mod:sound_block", "required": false},
+    { "id": "horror_element_mod:redstone_trigerrer", "required": false},
+
+    { "id": "", "required": false }
   ]
 }

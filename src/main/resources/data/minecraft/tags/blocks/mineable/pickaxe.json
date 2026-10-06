@@ -195,6 +195,37 @@
     { "id": "#refinedstorage:crafting_monitor", "required": false },
 
     { "id": "rsrequestify:requester", "required": false},
-    { "id": "rsrequestify:crafting_emitter", "required": false}
+    { "id": "rsrequestify:crafting_emitter", "required": false},
+
+    { "id": "horror_element_mod:impaled_skeleton", "required": false},
+    { "id": "horror_element_mod:broken_tv", "required": false},
+    { "id": "horror_element_mod:hospital_bed", "required": false},
+    { "id": "horror_element_mod:bloody_tombstone", "required": false},
+    { "id": "horror_element_mod:barbed_wire_body", "required": false},
+    { "id": "horror_element_mod:slashed_skull", "required": false},
+    { "id": "horror_element_mod:barbed_wire", "required": false},
+    { "id": "horror_element_mod:barbed_wire_bloody", "required": false},
+    { "id": "horror_element_mod:chained_entity", "required": false},
+    { "id": "horror_element_mod:trapped_leg", "required": false},
+    { "id": "horror_element_mod:broken_light", "required": false},
+    { "id": "horror_element_mod:redlantern", "required": false},
+    { "id": "horror_element_mod:atmosphere_block", "required": false},
+
+    { "id": "mtsofficialpack.beacon_top", "required": false },
+    { "id": "mtsofficialpack.beacon_tower_inverted", "required": false },
+    { "id": "mtsofficialpack.beacon_tower_standard", "required": false },
+    { "id": "mtsofficialpack.crashbarrier", "required": false },
+    { "id": "mts:mts.propellerbench", "required": false },
+    { "id": "mts:mts.seatbench", "required": false },
+    { "id": "mts:mts.vehiclebench", "required": false },
+    { "id": "mts:mts.wheelbench", "required": false },
+    { "id": "mts:mts.charger", "required": false },
+    { "id": "mts:mts.custombench", "required": false },
+    { "id": "mts:mts.decorbench", "required": false },
+    { "id": "mts:mts.enginebench", "required": false },
+    { "id": "mts:mts.fuelpump", "required": false },
+    { "id": "mts:mts.gunbench", "required": false },
+    { "id": "mts:mts.instrumentbench", "required": false },
+    { "id": "mts:mts.itembench", "required": false }
   ]
 }
