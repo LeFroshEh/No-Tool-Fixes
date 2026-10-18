@@ -88,6 +88,13 @@
     { "id": "horror_element_mod:sound_block", "required": false},
     { "id": "horror_element_mod:redstone_trigerrer", "required": false},
 
-    { "id": "", "required": false }
-  ]
+    { "id": "rocks:pinecone", "required": false },
+    { "id": "rocks:oak_stick", "required": false },
+    { "id": "rocks:spruce_stick", "required": false },
+    { "id": "rocks:birch_stick", "required": false },
+    { "id": "rocks:acacia_stick", "required": false },
+    { "id": "rocks:jungle_stick", "required": false },
+    { "id": "rocks:dark_oak_stick", "required": false },
+    { "id": "rocks:mangrove_stick", "required": false },
+    { "id": "rocks:", "required": false }  ]
 }

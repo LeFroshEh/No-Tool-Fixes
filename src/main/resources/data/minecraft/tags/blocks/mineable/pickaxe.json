@@ -226,6 +226,18 @@
     { "id": "mts:mts.fuelpump", "required": false },
     { "id": "mts:mts.gunbench", "required": false },
     { "id": "mts:mts.instrumentbench", "required": false },
-    { "id": "mts:mts.itembench", "required": false }
+    { "id": "mts:mts.itembench", "required": false },
+
+    { "id": "rocks:rock", "required": false },
+    { "id": "rocks:granite_rock", "required": false },
+    { "id": "rocks:diorite_rock", "required": false },
+    { "id": "rocks:andesite_rock", "required": false },
+    { "id": "rocks:sand_rock", "required": false },
+    { "id": "rocks:red_sand_rock", "required": false },
+    { "id": "rocks:gravel_rock", "required": false },
+    { "id": "rocks:end_stone_rock", "required": false },
+    { "id": "rocks:netherrack_rock", "required": false },
+    { "id": "rocks:soul_soil_rock", "required": false },
+    { "id": "rocks:seashell", "required": false },
   ]
 }
