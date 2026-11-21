@@ -73,7 +73,7 @@
     { "id": "animal_pen:waxed_weathered_copper_aviary", "required": false},
     { "id": "animal_pen:waxed_oxidized_copper_aviary", "required": false},
 
-    { "id": "wooden_zipline_hook", "required": false},
+    { "id": "parcool:wooden_zipline_hook", "required": false},
 
     { "id": "farmersdelight:tatami", "required": false},
 
@@ -448,6 +448,13 @@
     { "id": "minecraft:red_carpet", "required": false },
     { "id": "minecraft:black_carpet", "required": false },
     { "id": "minecraft:sniffer_egg", "required": false },
-    { "id": "minecraft:turtle_egg", "required": false }
+    { "id": "minecraft:turtle_egg", "required": false },
+
+    { "id": "sophisticatedbackpacks:backpack", "required": false},
+    { "id": "sophisticatedbackpacks:copper_backpack", "required": false},
+    { "id": "sophisticatedbackpacks:iron_backpack", "required": false},
+    { "id": "sophisticatedbackpacks:gold_backpack", "required": false},
+    { "id": "sophisticatedbackpacks:diamond_backpack", "required": false},
+    { "id": "sophisticatedbackpacks:netherite_backpack", "required": false}
   ]
 }
