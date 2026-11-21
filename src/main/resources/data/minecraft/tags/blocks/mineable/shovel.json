@@ -52,7 +52,12 @@
     { "id": "horror_element_mod:acid_blood_1", "required": false},
     { "id": "horror_element_mod:acid_blood_2", "required": false},
     { "id": "horror_element_mod:green_blood_1", "required": false},
-    { "id": "horror_element_mod:green_blood_2", "required": false}
+    { "id": "horror_element_mod:green_blood_2", "required": false},
 
+    {"id": "moa_decor_bath:jabon", "required": false},
+
+    { "id": "rocks:starfish", "required": false},
+
+    {"id": "moa_decor_bath:jabon", "required": false}
   ]
 }
