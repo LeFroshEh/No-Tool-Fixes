@@ -65,7 +65,7 @@
     { "id": "animal_pen:animal_pen_cherry", "required": false},
     { "id": "animal_pen:gold_aviary", "required": false},
     { "id": "animal_pen:copper_aviary", "required": false},
-    { "id": "animal_pen:exposed:copper_aviary", "required": false},
+    { "id": "animal_pen:exposed_copper_aviary", "required": false},
     { "id": "animal_pen:weathered_copper_aviary", "required": false},
     { "id": "animal_pen:oxidized_copper_aviary", "required": false},
     { "id": "animal_pen:waxed_copper_aviary", "required": false},
@@ -165,7 +165,7 @@
     { "id": "justoutdoorstuffs:garden_hoe", "required": false},
     { "id": "justoutdoorstuffs:garden_rake", "required": false},
 
-    { "id": "createcobblestone:mechanical_generator:", "required": false},
+    { "id": "createcobblestone:mechanical_generator", "required": false},
 
     { "id": "legendarysurvivaladdon:cooler", "required": false},
     { "id": "legendarysurvivaladdon:heater", "required": false},
