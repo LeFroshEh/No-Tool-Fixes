@@ -124,7 +124,7 @@
     { "id": "animal_pen:animal_pen_cherry", "required": false },
     { "id": "animal_pen:gold_aviary", "required": false},
     { "id": "animal_pen:copper_aviary", "required": false},
-    { "id": "animal_pen:exposed:copper_aviary", "required": false},
+    { "id": "animal_pen:exposed_copper_aviary", "required": false},
     { "id": "animal_pen:weathered_copper_aviary", "required": false},
     { "id": "animal_pen:oxidized_copper_aviary", "required": false},
     { "id": "animal_pen:waxed_copper_aviary", "required": false},
@@ -184,7 +184,7 @@
     { "id": "#refinedstorage:pattern_grid", "required": false },
     { "id": "#refinedstorage:fluid_grid", "required": false },
     { "id": "#refinedstorage:network_receiver", "required": false },
-    { "id": "#refinedstorage:network,transmitter", "required": false },
+    { "id": "#refinedstorage:network_transmitter", "required": false },
     { "id": "#refinedstorage:relay", "required": false },
     { "id": "#refinedstorage:detector", "required": false },
     { "id": "#refinedstorage:security_manager", "required": false },
@@ -256,7 +256,7 @@
     { "id": "zombie_extreme:computer_monitor", "required": false},
 
     { "id": "quark:gold_button", "required": false},
-    { "id": "quark:iron:button:", "required": false},
+    { "id": "quark:iron_button", "required": false},
 
     { "id": "embellishcraft:basalt_button", "required": false},
     { "id": "embellishcraft:slate_button", "required": false},
@@ -275,7 +275,7 @@
     { "id": "justoutdoorstuffs:patio_tea_set", "required": false},
     { "id": "justoutdoorstuffs:garden_watering_can", "required": false},
 
-    { "id": "createcobblestone:mechanical_generator:", "required": false},
+    { "id": "createcobblestone:mechanical_generator", "required": false},
 
     { "id": "liquidfuels:small_fuel_tank", "required": false},
     { "id": "liquidfuels:fuel_tank", "required": false},
